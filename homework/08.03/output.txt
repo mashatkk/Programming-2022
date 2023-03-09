@@ -1,0 +1,51 @@
+All phones, sorted by price:
+Name: kxt
+Firm: panasonic
+Price: 200
+Active radius: 100
+Auto answer: 1
+
+Name: a116
+Firm: gigaset
+Price: 719
+Active radius: 250
+Auto answer: 1
+
+Name: i220
+Firm: nomi
+Price: 1000
+Active radius: 300
+Auto answer: 0
+
+Name: redmi
+Firm: xiaomi
+Price: 4000
+Color: blue
+Memory size: 64
+
+Name: galaxy
+Firm: samsung
+Price: 20000
+Color: silver
+Memory size: 512
+
+Name: 14pro
+Firm: apple
+Price: 40000
+Color: black
+Memory size: 256
+
+Total sum: 65919
+
+Radio phones with auto answer:
+Name: kxt
+Firm: panasonic
+Price: 200
+Active radius: 100
+Auto answer: 1
+
+Name: a116
+Firm: gigaset
+Price: 719
+Active radius: 250
+Auto answer: 1

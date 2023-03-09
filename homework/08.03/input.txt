@@ -1,0 +1,6 @@
+1 14pro apple 40000 black 256
+2 kxt panasonic 200 100 1
+1 galaxy samsung 20000 silver 512
+1 redmi xiaomi 4000 blue 64
+2 i220 nomi 1000 300 0
+2  a116 gigaset 719 250 1
